@@ -1,0 +1,27 @@
+{
+  "name": "png-t",
+  "version": "0.1.0",
+  "description": "通过tinypng快速压缩图片",
+  "bin": {
+    "png-t": "./lib/png-t.js"
+  },
+  "main": "./lib/png-t.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "command",
+    "tinypng"
+  ],
+  "author": "svenzhao",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "through2": "^3.0.1",
+    "vinyl-fs": "^3.0.3",
+    "yargs": "^13.3.0"
+  }
+}
