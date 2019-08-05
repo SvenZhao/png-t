@@ -1,6 +1,6 @@
 {
   "name": "png-t",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "通过tinypng快速压缩图片",
   "bin": {
     "png-t": "./lib/png-t.js"
@@ -17,7 +17,6 @@
   "author": "svenzhao",
   "license": "ISC",
   "dependencies": {
-    "ansi-colors": "^4.1.1",
     "got": "^9.6.0",
     "through2": "^3.0.1",
     "vinyl-fs": "^3.0.3",
