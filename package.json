@@ -17,9 +17,9 @@
   "author": "svenzhao",
   "license": "ISC",
   "dependencies": {
+    "commander": "^2.20.0",
     "got": "^9.6.0",
     "through2": "^3.0.1",
-    "vinyl-fs": "^3.0.3",
-    "yargs": "^13.3.0"
+    "vinyl-fs": "^3.0.3"
   }
 }
