@@ -18,8 +18,7 @@
   "license": "ISC",
   "dependencies": {
     "ansi-colors": "^4.1.1",
-    "request": "^2.88.0",
-    "request-promise-native": "^1.0.7",
+    "got": "^9.6.0",
     "through2": "^3.0.1",
     "vinyl-fs": "^3.0.3",
     "yargs": "^13.3.0"

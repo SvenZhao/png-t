@@ -117,3 +117,4 @@ examples/
 config/moc/_apis
 .idea
 .vscode
+test
