@@ -23,7 +23,7 @@
   "dependencies": {
     "ansi-colors": "^4.1.1",
     "commander": "^2.20.0",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "through2": "^3.0.1",
     "vinyl-fs": "^3.0.3"
   }
